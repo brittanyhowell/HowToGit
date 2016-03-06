@@ -20,4 +20,12 @@
 
 # Delete a branch
 	8. git branch -d <branchName>
+
+# Merging changes
+	9. Once online, click the pull request
+	10. Merge pull request
+	11. Confirm merge
+	12. Delete branch
+
+
  
