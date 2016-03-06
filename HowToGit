@@ -1,7 +1,23 @@
-1. git add <filename>
-2. git add *
+# Adding files
+	1. git add <filename>
+	2. git add *
 
-3. git commit -m “Commit message” 
+# Committing changes
+	3. git commit -m “Commit message” 
 
-4. git push origin <branch> 
-	eg master
+# Pushing changes to the server
+	4. git push origin <branch> 
+		eg master
+
+# To add a new branch, write: 
+	5. git checkout -b <branchName>
+
+# Push the branch to the remote repository
+	6. git push origin <branchName> 
+
+# Switch back to master branch:
+	7. git checkout master
+
+# Delete a branch
+	8. git branch -d <branchName>
+ 
