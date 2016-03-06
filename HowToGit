@@ -1,0 +1,7 @@
+1. git add <filename>
+2. git add *
+
+3. git commit -m “Commit message” 
+
+4. git push origin <branch> 
+	eg master
