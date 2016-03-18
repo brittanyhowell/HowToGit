@@ -1,31 +1,36 @@
+# Making a folder a repository
+	. Online: Make repository
+	. Command line: Git init
+	. git remote add origin <link to online repository>
+
 # Adding files
-	1. git add <filename>
-	2. git add *
+	. git add <filename>
+	. git add *
 
 # Committing changes
-	3. git commit -m “Commit message” 
+	. git commit -m “Commit message” 
 
 # Pushing changes to the server
-	4. git push origin <branch> 
+	. git push origin <branch> 
 		eg master
 
 # To add a new branch, write: 
-	5. git checkout -b <branchName>
+	. git checkout -b <branchName>
 
 # Push the branch to the remote repository
-	6. git push origin <branchName> 
+	. git push origin <branchName> 
 
 # Switch back to master branch:
-	7. git checkout master
+	. git checkout master
 
 # Delete a branch
-	8. git branch -d <branchName>
+	. git branch -d <branchName>
 
 # Merging changes
-	9. Once online, click the pull request
-	10. Merge pull request
-	11. Confirm merge
-	12. Delete branch
+	. Once online, click the pull request
+	. Merge pull request
+	. Confirm merge
+	. Delete branch
 
 
  
