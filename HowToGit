@@ -32,5 +32,9 @@
 	. Confirm merge
 	. Delete branch
 
-
- 
+# Working from another computer
+	. git clone first to pull, 
+	. commit and push as per normal
+	. Return to original computer
+	. git fetch origin - it pulls the changes from online 
+	. git merge origin/master - it merges them with the local directory
